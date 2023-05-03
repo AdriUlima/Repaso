@@ -1,0 +1,7 @@
+cd (carpeta): El cmd se mete a esa carpeta
+git clone (link): Crea una copia de tu carpeta Git
+git pull: Descarga todos los cambios
+git add .: Prepara todos los cambios para subir
+git commit:
+git push:
+git status: Retorna los cambios
